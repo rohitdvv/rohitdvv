@@ -3,6 +3,7 @@
 - 🌱 I’m currently persuing my B.TECH 3rd year
 - 💞️ I’m looking to collaborate on software development and embedded systems
 - 📫 Contact me ----> dvvrohit4878@gmail.com
+-  I’m capabale at doing web design with HTML/CSS
 
 
 <!---
