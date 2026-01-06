@@ -1,84 +1,86 @@
-# Hi, I’m Rohit 👋  
-### Data Scientist | AI & ML Engineer | Turning Data into Real-World Impact
+# 👋 Hey, I’m Rohit  
+### I build AI systems that make sense — and actually get used.
 
-I’m a **Data Science graduate student at UMBC** with a strong interest in **applied AI, machine learning, analytics, and automation**.  
-I enjoy building systems that move beyond theory — focusing on **clarity, scalability, and real outcomes**.
+Most AI projects fail not because the models are bad,  
+but because the **problem wasn’t clear**, the **data wasn’t ready**,  
+or the **solution didn’t fit real workflows**.
 
----
-
-## 🚀 What I Work On
-- 📊 Data analysis & visualization that drives decisions  
-- 🤖 Machine Learning & Deep Learning (NLP, time-series, classification)  
-- 🧠 Applied AI systems (LLMs, automation, summarization, agents)  
-- ⚙️ End-to-end pipelines: data → model → deployment → insights  
-
-I care deeply about **data quality**, **interpretability**, and **solving the right problem before choosing the tool**.
+That’s the gap I enjoy working in.
 
 ---
 
-## 🧰 Tech Stack
-**Languages:**  
-`Python` | `SQL`
+## 🧠 What I Do
+I’m a **Data Science graduate student at UMBC** working at the intersection of  
+**data, machine learning, and applied AI systems**.
 
-**ML / AI:**  
-`Scikit-Learn` | `PyTorch` | `TensorFlow` | `XGBoost` | `NLP` | `LLMs`
+I focus on:
+- Turning messy data into **reliable signals**
+- Building **simple ML/AI systems** that scale
+- Translating analysis into **decisions people can act on**
 
-**Data & Analytics:**  
-`Pandas` | `NumPy` | `EDA` | `Feature Engineering` | `Time-Series`
-
-**Visualization & BI:**  
-`Power BI` | `Tableau` | `Matplotlib` | `Seaborn`
-
-**Tools & Platforms:**  
-`AWS` | `LangChain` | `Zapier` | `Streamlit` | `Git`
+No hype. No overengineering. Just systems that work.
 
 ---
 
-## 📌 Featured Projects
-- **AI-Powered Tutoring Session Summarizer**  
-  Automated end-to-end pipeline using LLMs to summarize sessions and deliver insights via email.
-
-- **Crime Prediction & Analytics Chatbot**  
-  ML-driven chatbot combining crime, weather, and demographic data for predictive insights.
-
-- **Time-Based Forecasting & Classification Models**  
-  Built and evaluated ML models for real-world datasets with a focus on interpretability and performance.
-
-*(More projects below ⬇️)*
+## 🔍 How I Think
+- **Start with the problem**, not the model  
+- **Data quality > model complexity**  
+- **Systems beat tools**  
+- If it can’t be explained simply, it’s not done  
 
 ---
 
-## 🧠 My Approach
-- Start with the **problem**, not the hype  
-- Clean data beats complex models  
-- Simple systems scale better than clever hacks  
-- Insights matter only when people can act on them  
+## ⚙️ My Toolkit
+**Languages**  
+`Python` · `SQL`
+
+**ML & AI**  
+`Scikit-Learn` · `PyTorch` · `TensorFlow` · `XGBoost`  
+`NLP` · `LLMs` · `Time-Series` · `Classification`
+
+**Data & Analytics**  
+`Pandas` · `NumPy` · `EDA` · `Feature Engineering`
+
+**Visualization & BI**  
+`Power BI` · `Tableau` · `Matplotlib` · `Seaborn`
+
+**Systems & Platforms**  
+`AWS` · `LangChain` · `Streamlit` · `Zapier` · `Git`
 
 ---
 
-## 🌱 Currently Exploring
+## 📌 Things I’ve Built
+🔹 **AI Tutoring Session Summarizer**  
+LLM-powered pipeline that automatically summarizes sessions and delivers insights via email.
+
+🔹 **Crime Analytics & Prediction Chatbot**  
+ML-driven chatbot combining crime, weather, and demographic data for predictive insights.
+
+🔹 **Forecasting & Classification Systems**  
+End-to-end ML workflows focused on interpretability and real-world performance.
+
+*(Scroll down to explore the repos 👇)*
+
+---
+
+## 🚧 What I’m Exploring Next
 - Agentic AI & workflow automation  
-- LLM-powered analytics and RAG systems  
-- Scalable ML deployment patterns  
-- Data-driven decision systems for businesses  
+- RAG-based analytics systems  
+- ML deployment patterns that don’t break in production  
+- AI systems for small & mid-sized businesses  
 
 ---
 
-## 🤝 Let’s Connect
-I’m always open to:
-- Collaborations on **AI / ML projects**
-- Data science & analytics discussions
-- Opportunities where data creates real impact
+## 🤝 Let’s Build
+I’m always interested in:
+- Applied **AI / ML projects**
+- Data systems with real-world impact
+- Collaborations that value clarity over complexity
 
-📫 **Reach me on LinkedIn**  
-📁 **Explore my projects below**
+📫 **Let’s connect on LinkedIn**  
+⭐ **Star a repo if something here helps you**
 
 ---
 
-⭐ *If something here helps you, feel free to star a repo or reach out.*
-
-
-<!---
-rohitdvv/rohitdvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “The goal isn’t smarter AI.  
+> The goal is better decisions.”
